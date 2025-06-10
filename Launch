@@ -1,0 +1,21 @@
+Launch browser
+- Chromium
+- Firefox
+- Webkit
+
+Local stable browsers
+- Chrome
+- MS-Edge
+
+
+LetXPath Extension
+I learned it new
+
+
+fill(String value) replaces the entire content of the input field.
+
+type(String value) simulates typing each character individually and is slower, which is why it's deprecated for general input population.
+
+
+
+
