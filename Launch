@@ -17,5 +17,12 @@ fill(String value) replaces the entire content of the input field.
 type(String value) simulates typing each character individually and is slower, which is why it's deprecated for general input population.
 
 
+Alerts : 
+- Simple
+- Prompt
+- Confirm
+- Sweet or modern alert
+- Consumer java
 
+Playwright - if not handled alert dismissed automatically
 
