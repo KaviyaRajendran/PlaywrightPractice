@@ -35,6 +35,7 @@ DAY 2
 - Dropdown
 
 DAY 3
+- Playwright Features
 - Codegen
 - Generate PDF
 
