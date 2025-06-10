@@ -22,4 +22,62 @@ WHY PLAYWRIGHT?
 - Codegen - record sequence of tests
 - Playwright inspector -> debugging
 - Trace viewer -> Dom test execution snapshot, test source
+
+
+PLAN
+DAY 1 (June 09)
+- Introduction
+- Environmental setup
+- Browser launch
+
+DAY 2 
+- Interact with inputs
+- Dropdown
+
+DAY 3
+- Codegen
+- Generate PDF
+
+DAY 4
+- Alerts
+
+DAY 5
+- HTTP Authentication
+
+DAY 4
+- Browser context
+
+DAY 4
+- Record video
+
+DAY 4
+- Traceview
+
+DAY 4
+- Write testscripts
+
+DAY 4
+- Debug and inspector
+
+DAY 4
+- Frames
+
+DAY 4
+- Download and save files
+
+DAY 4
+- Upload multiple files
+
+DAY 4
+- Screenshots
+
+DAY 4
+- Window handling
+
+DAY 4
+- Multiple elements
+
+DAY 4
+- Storage
+
  
