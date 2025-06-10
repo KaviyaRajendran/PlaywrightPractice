@@ -33,17 +33,13 @@ DAY 1 (June 09)
 DAY 2 
 - Interact with inputs
 - Dropdown
-
-DAY 3
-- Playwright Features
-- Codegen
-- Generate PDF
-
-DAY 4
-- Alerts
+Alerts
 
 DAY 5
 - HTTP Authentication
+- Playwright Features
+- Codegen
+- Generate PDF
 
 DAY 4
 - Browser context
